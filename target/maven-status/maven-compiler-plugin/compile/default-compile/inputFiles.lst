@@ -1,0 +1,7 @@
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/repository/ClientRepository.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/exception/ClientNotFoundException.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/ClientServiceApplication.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/controller/interfaces/ClientControllerInterface.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/service/ClientService.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/model/entities/Client.java
+/Users/josearnoldosicilialabarquilla/Documents/Ironhack/java_bootcamp/finalProject/ERP/client-service/src/main/java/com/ironhack/erp/clientservice/controller/impl/ClientControllerImpl.java
